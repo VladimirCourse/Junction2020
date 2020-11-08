@@ -1,0 +1,3502 @@
+{
+    "offset": 0,
+    "total": 252,
+    "hits": [
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "5a48bc6660255e28c595f57e",
+            "latitude": 60.16789,
+            "longitude": 24.93165,
+            "name": "Kohtauspaikat"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4ef6daea0e61a0846d0a4a35",
+            "latitude": 60.2101948807,
+            "longitude": 24.9810802993,
+            "name": "Sirocco"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4ede60d80e61d46adcae5c1a",
+            "latitude": 60.2297835948,
+            "longitude": 24.9653264601,
+            "name": "Tapio Rautavaaran muistomerkki / Kulkurin uni"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ee",
+            "category_name": "Street Art",
+            "id": "538af0f2498eff328348bc0d",
+            "latitude": 60.185606,
+            "longitude": 24.973753,
+            "name": "Suvilahden graffitiseinä"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4bb3905342959c74a81e222c",
+            "latitude": 60.1694595274,
+            "longitude": 24.9522256219,
+            "name": "Aleksanteri II -patsas"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "51f95346498e21ea62ceeac9",
+            "latitude": 60.2296996384,
+            "longitude": 25.0293038424,
+            "name": "Helsingin pommituksissa menehtyneiden muistomerkki"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4fcb6eeae4b0c665076ad726",
+            "latitude": 60.159366,
+            "longitude": 24.932756,
+            "name": "Kohottava voima (veistos)"
+        },
+        {
+            "category_id": "56aa371be4b08b9a8d573547",
+            "category_name": "Fountain",
+            "id": "59947fa9da5ede78cae4df2a",
+            "latitude": 60.184723,
+            "longitude": 25.002182,
+            "name": "Raivaajien kaivo / Leikkivät pojat III"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "52051ebe11d263e517d0b94f",
+            "latitude": 60.1540031433,
+            "longitude": 24.9615364075,
+            "name": "Arvid Morne - muistopatsas"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4e3b9da718a83d5b282aeda7",
+            "latitude": 60.1740971678,
+            "longitude": 24.9323537643,
+            "name": "M. A. Castrenin muistomerkki"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "5b509c0c25ecca002ce99ec4",
+            "latitude": 60.205494,
+            "longitude": 24.681244,
+            "name": "Huminaa Veistos"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ee",
+            "category_name": "Street Art",
+            "id": "5f05a4c4311052255f1ea14a",
+            "latitude": 60.403125,
+            "longitude": 25.142047,
+            "name": "Taiteen Kotitalo"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "573f68d6cd10274768d7ff6a",
+            "latitude": 60.1840019068,
+            "longitude": 24.9521559477,
+            "name": "Mesikämmen muurahaispesällä"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "50334c20e4b0443114b44c93",
+            "latitude": 60.163406,
+            "longitude": 24.94573,
+            "name": "Topelius ja lapset"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "507bf658e4b07204c2719a6e",
+            "latitude": 60.183008506,
+            "longitude": 24.9581584954,
+            "name": "Väinö Tannerin patsas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "52d298f8498ea0341389f498",
+            "latitude": 60.181072774,
+            "longitude": 24.9489218742,
+            "name": "Sodanajan naisen muistomerkki"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "5b796cc2be707800391c477d",
+            "latitude": 60.170462,
+            "longitude": 24.761653,
+            "name": "Omilla Jaloilla"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4c23d341905a0f47f3c45e60",
+            "latitude": 60.154511678,
+            "longitude": 24.937613229,
+            "name": "Merenkulkijoiden ja mereen menehtyneiden muistomerkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4db3c8306a23c31a030a8022",
+            "latitude": 60.1588146999,
+            "longitude": 24.9619068933,
+            "name": "Rauhanpatsas"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4ee49b00775b86c40458bece",
+            "latitude": 60.161833,
+            "longitude": 24.955333,
+            "name": "Haaksirikkoiset-patsas"
+        },
+        {
+            "category_id": "507c8c4091d498d9fc8c67a9",
+            "category_name": "Public Art",
+            "id": "50758d98e4b0e79f70177a6f",
+            "latitude": 60.1647945734,
+            "longitude": 25.0121174008,
+            "name": "Öljysäiliö 468"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "53fb34d8498e117d173cbc32",
+            "latitude": 60.1560804662,
+            "longitude": 24.9211380024,
+            "name": "Bad Bad Boy"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4bb3945b42959c74f924222c",
+            "latitude": 60.1686856283,
+            "longitude": 24.9409480705,
+            "name": "Kolmen sepän patsas"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4d611c28d7206ea807a4fcf1",
+            "latitude": 60.1843104363,
+            "longitude": 24.926965169,
+            "name": "Paavo Nurmen patsas"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4e354e5b1f6e9e21ad4c9348",
+            "latitude": 60.1776482108,
+            "longitude": 24.9288474093,
+            "name": "Risto Rytin Patsas"
+        },
+        {
+            "category_id": "507c8c4091d498d9fc8c67a9",
+            "category_name": "Public Art",
+            "id": "517e7fbb498e4a3bdd07eceb",
+            "latitude": 60.1708486067,
+            "longitude": 24.9371991009,
+            "name": "Sokoksen Mediaseinä"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4c7ccdcba141b1f7450a6c79",
+            "latitude": 60.171450443,
+            "longitude": 24.936212687,
+            "name": "Mannerheimin ratsastajapatsas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4e5ce329183883e00c0e10a2",
+            "latitude": 60.1708558135,
+            "longitude": 24.9357736872,
+            "name": "Paasikiven patsas"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ee",
+            "category_name": "Street Art",
+            "id": "5651be84498edc1813cfc34c",
+            "latitude": 60.168195802,
+            "longitude": 24.9428670851,
+            "name": "Stockmannin jouluikkuna"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4cc067aa9ca85481a436bc16",
+            "latitude": 60.1822360019,
+            "longitude": 24.9370809177,
+            "name": "Itsekkyyden muistomerkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4e41282a483b72d779dd58e4",
+            "latitude": 60.1725875291,
+            "longitude": 24.9339052801,
+            "name": "Eduskuntatalon portaat"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4ef6daea0e61a0846d0a4a35",
+            "latitude": 60.2101948807,
+            "longitude": 24.9810802993,
+            "name": "Sirocco"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4ede60d80e61d46adcae5c1a",
+            "latitude": 60.2297835948,
+            "longitude": 24.9653264601,
+            "name": "Tapio Rautavaaran muistomerkki / Kulkurin uni"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4beeb1ad2c082d7ffeb43042",
+            "latitude": 60.1820324037,
+            "longitude": 24.9136066989,
+            "name": "Sibelius Monument"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4c440a1ef97fbe9a6da3ba30",
+            "latitude": 60.2279651572,
+            "longitude": 24.8822307587,
+            "name": "Punaisten muistomerkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4bb3905342959c74a81e222c",
+            "latitude": 60.1694595274,
+            "longitude": 24.9522256219,
+            "name": "Aleksanteri II -patsas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "5ec697d90ec9aa000717ca3b",
+            "latitude": 60.166954,
+            "longitude": 24.943764,
+            "name": "Usko Toivo Rakkaus Veistos"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4dbf0accec8ea7b62b501da1",
+            "latitude": 60.1765874718,
+            "longitude": 24.9315509227,
+            "name": "Lähde (Urho Kekkosen muistomerkki)"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "5003ec8ae4b0444ec31b28ae",
+            "latitude": 60.1640443913,
+            "longitude": 24.9535661851,
+            "name": "1918 kaatuneiden saksalaissotilaiden muistomerkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "5ada1f2d4c954c77084d6685",
+            "latitude": 60.187696,
+            "longitude": 24.962701,
+            "name": "Kurvin kämmenen terassi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4bce89a2fb84c9b66010243e",
+            "latitude": 60.2160029453,
+            "longitude": 24.9759578705,
+            "name": "Kaupunkiseurakunnan ensimmäisen kirkon ja hautausmaan muistokivi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "5ddf8e950e7b230008d3b988",
+            "latitude": 60.191499,
+            "longitude": 24.965168,
+            "name": "Gandhi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "57f13e36cd102951e587142c",
+            "latitude": 60.18397,
+            "longitude": 24.953941,
+            "name": "Arvo Turtiaisen muistomerkki (Raimo Utriainen, 1990)"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "5a27d216ccad6b7bf182441b",
+            "latitude": 60.16525508,
+            "longitude": 24.9488663243,
+            "name": "Talvisodan muistomerkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4d53ee5c65586ea8f3b770c8",
+            "latitude": 60.13958,
+            "longitude": 24.98995,
+            "name": "Kuninkaanportti / Kungsporten"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4e8590128b81fc32c53d7797",
+            "latitude": 60.382284,
+            "longitude": 25.116232,
+            "name": "Battery-jättitölkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4e00fdc5fa764068a36b2f09",
+            "latitude": 60.190363946,
+            "longitude": 24.9151038085,
+            "name": "Tullinpuomin Rajatolppa"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4bb91819cf2fc9b6513ca002",
+            "latitude": 60.1781858726,
+            "longitude": 24.953484946,
+            "name": "Maailmanrauha-patsas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4db3c8306a23c31a030a8022",
+            "latitude": 60.1588146999,
+            "longitude": 24.9619068933,
+            "name": "Rauhanpatsas"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4c23d341905a0f47f3c45e60",
+            "latitude": 60.154511678,
+            "longitude": 24.937613229,
+            "name": "Merenkulkijoiden ja mereen menehtyneiden muistomerkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12a941735",
+            "category_name": "Capitol Building",
+            "id": "4adcdb22f964a520836021e3",
+            "latitude": 60.1682306728,
+            "longitude": 24.9566105846,
+            "name": "Presidentinlinna"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4bb049c2f964a520c53f3ce3",
+            "latitude": 60.1688084931,
+            "longitude": 24.9417448686,
+            "name": "Stockan kello"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4bb3945b42959c74f924222c",
+            "latitude": 60.1686856283,
+            "longitude": 24.9409480705,
+            "name": "Kolmen sepän patsas"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4d611c28d7206ea807a4fcf1",
+            "latitude": 60.1843104363,
+            "longitude": 24.926965169,
+            "name": "Paavo Nurmen patsas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d132941735",
+            "category_name": "Church",
+            "id": "4baf6153f964a5209afb3be3",
+            "latitude": 60.1701632988,
+            "longitude": 24.952249825,
+            "name": "Tuomiokirkko"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4adcdb22f964a520856021e3",
+            "latitude": 60.1849689809,
+            "longitude": 24.831953551,
+            "name": "Dipoli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4e5ce329183883e00c0e10a2",
+            "latitude": 60.1708558135,
+            "longitude": 24.9357736872,
+            "name": "Paasikiven patsas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4bb2ed4135f0c9b624e1bb83",
+            "latitude": 60.1675498382,
+            "longitude": 24.9474432582,
+            "name": "Runebergin patsas"
+        },
+        {
+            "category_id": "56aa371be4b08b9a8d573517",
+            "category_name": "Business Center",
+            "id": "4afc0db2f964a520a11f22e3",
+            "latitude": 60.1699187376,
+            "longitude": 24.9416362664,
+            "name": "Makkaratalo"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ed",
+            "category_name": "Outdoor Sculpture",
+            "id": "4cc067aa9ca85481a436bc16",
+            "latitude": 60.1822360019,
+            "longitude": 24.9370809177,
+            "name": "Itsekkyyden muistomerkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5b7ad64a531593002c963fea",
+            "latitude": 60.169773,
+            "longitude": 24.930303,
+            "name": "Sali 12"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "4af5e40ff964a52061fe21e3",
+            "latitude": 60.169483719,
+            "longitude": 24.9310253684,
+            "name": "Finnkino Tennispalatsi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "56718e91498e08291d65c9a4",
+            "latitude": 60.187863,
+            "longitude": 24.9577,
+            "name": "Riviera"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5c728f93b3c961002cf51007",
+            "latitude": 60.1694980599,
+            "longitude": 24.9306714535,
+            "name": "ISENSE"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "5dab31a628f17a0008e0a4c9",
+            "latitude": 60.198451,
+            "longitude": 24.930814,
+            "name": "Cinamon"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "5bbef7ca8194fc002bbd1260",
+            "latitude": 60.1738686966,
+            "longitude": 24.9379134178,
+            "name": "Kino Regina"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "4eb43cd78b81a81f9006301e",
+            "latitude": 60.2179907497,
+            "longitude": 24.8087439256,
+            "name": "Finnkino Sello"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "5bb0cbed6dcf04002c0e8f45",
+            "latitude": 60.1867892324,
+            "longitude": 24.978573541,
+            "name": "Cinamon"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "4b3ba2bdf964a520997725e3",
+            "latitude": 60.2907703628,
+            "longitude": 24.9687023007,
+            "name": "Finnkino Flamingo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "5bfec9d43e6741002c8bfd96",
+            "latitude": 60.211614574,
+            "longitude": 25.0833856807,
+            "name": "Finnkino Itis"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5e1f0aa0477b080007a8a17e",
+            "latitude": 60.167492,
+            "longitude": 24.958477,
+            "name": "Flying Cinema Tour Of Helsinki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5bfecb75e96d0c0039f18d63",
+            "latitude": 60.2117738322,
+            "longitude": 25.0827205181,
+            "name": "Sali 3 Luxe Premium"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5bfecadfdd8442002cbe19b3",
+            "latitude": 60.211749847,
+            "longitude": 25.0828170776,
+            "name": "Sali 2"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5a2eab848496ca1be8fdd14a",
+            "latitude": 60.208984,
+            "longitude": 25.143366,
+            "name": "Vuotalon Elokuvasali"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5c728ea659c423002c04d8b2",
+            "latitude": 60.1611233846,
+            "longitude": 24.7374773026,
+            "name": "ISENSE"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5b30bb29b77c77002c829ccd",
+            "latitude": 60.2906343129,
+            "longitude": 24.9688661098,
+            "name": "Sali 3"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "58f0d15793bd634eff1c0b3b",
+            "latitude": 60.1693496269,
+            "longitude": 24.9308672547,
+            "name": "Sali 3"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "4d5299e407b1a0908ba8143c",
+            "latitude": 60.4617004904,
+            "longitude": 24.8064711807,
+            "name": "Kino Juha"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "56dc4e11498edb855531c9ef",
+            "latitude": 60.1712042115,
+            "longitude": 24.9463767461,
+            "name": "Sali 2"
+        },
+        {
+            "category_id": "4bf58dd8d48988d135941735",
+            "category_name": "Indie Theater",
+            "id": "545e564b498e4d476e685142",
+            "latitude": 60.175935247,
+            "longitude": 24.9510650703,
+            "name": "WHS Teatteri Union"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "4c667237255e9521f101d6d8",
+            "latitude": 60.1788351935,
+            "longitude": 24.8108586227,
+            "name": "Kino Tapiola"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "4bae2d04f964a520e08d3be3",
+            "latitude": 60.1686791464,
+            "longitude": 24.9520880678,
+            "name": "Kino Engel"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5bfeca701af8520039e51c10",
+            "latitude": 60.2115866409,
+            "longitude": 25.0833388619,
+            "name": "IMAX® Premium"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "4e0f2a2722711665f61bade3",
+            "latitude": 60.1689785881,
+            "longitude": 24.9517578775,
+            "name": "KesäKino Engel"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "4c4dc43c51c2c928d7b8589d",
+            "latitude": 60.1617803628,
+            "longitude": 24.7371755779,
+            "name": "Finnkino Omena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "4adcdb25f964a5204c6121e3",
+            "latitude": 60.1714362647,
+            "longitude": 24.9456987107,
+            "name": "Finnkino Kinopalatsi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "4fb3c126e4b066864891bb58",
+            "latitude": 60.1705406761,
+            "longitude": 24.9360479166,
+            "name": "Bio Rex"
+        },
+        {
+            "category_id": "4bf58dd8d48988d130941735",
+            "category_name": "Building",
+            "id": "4e42446aa8092520555283dd",
+            "latitude": 60.2611948765,
+            "longitude": 24.8534449175,
+            "name": "Myyrmäkitalo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "56ace67038fa86e5450c02b9",
+            "latitude": 60.1842622702,
+            "longitude": 24.9198974815,
+            "name": "Korjaamo Kino"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "4adcdb25f964a5204d6121e3",
+            "latitude": 60.1663927872,
+            "longitude": 24.9328243672,
+            "name": "Orion"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4adcdb23f964a520d36021e3",
+            "latitude": 60.1697921221,
+            "longitude": 24.9304319851,
+            "name": "HAM"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "5f3ff73e14588d39c7536fdc",
+            "latitude": 60.168346,
+            "longitude": 24.946619,
+            "name": "Suomen Valokuvataiteen Museo K1"
+        },
+        {
+            "category_id": "4bf58dd8d48988d181941735",
+            "category_name": "Museum",
+            "id": "5da72c1d29e1e50008b54991",
+            "latitude": 60.198273064,
+            "longitude": 24.9296508729,
+            "name": "Musiikkimuseo Fame"
+        },
+        {
+            "category_id": "4deefb944765f83613cdba6e",
+            "category_name": "Historic Site",
+            "id": "53c55bdd498edc85041d09c4",
+            "latitude": 60.1910371947,
+            "longitude": 25.0417161353,
+            "name": "Herttoniemen kartano"
+        },
+        {
+            "category_id": "4bf58dd8d48988d190941735",
+            "category_name": "History Museum",
+            "id": "5b2a09ab237dee00394db8d5",
+            "latitude": 60.10594,
+            "longitude": 24.674535,
+            "name": "Saaristomuseo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d181941735",
+            "category_name": "Museum",
+            "id": "4cc29a5306c2548188ef8a47",
+            "latitude": 60.1788883474,
+            "longitude": 24.7947577039,
+            "name": "WeeGee"
+        },
+        {
+            "category_id": "4bf58dd8d48988d190941735",
+            "category_name": "History Museum",
+            "id": "4adcdb23f964a520c26021e3",
+            "latitude": 60.2210611091,
+            "longitude": 24.6807003021,
+            "name": "Talomuseo Glims"
+        },
+        {
+            "category_id": "4bf58dd8d48988d181941735",
+            "category_name": "Museum",
+            "id": "4f782e1fe4b0c7b6e2918b0d",
+            "latitude": 60.1896807992,
+            "longitude": 24.882996822,
+            "name": "Tamminiemi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d190941735",
+            "category_name": "History Museum",
+            "id": "4e22afe3d164740632133897",
+            "latitude": 60.1453242752,
+            "longitude": 24.9875347949,
+            "name": "Suomenlinna-museo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d190941735",
+            "category_name": "History Museum",
+            "id": "4adcdb23f964a520b36021e3",
+            "latitude": 60.2063165706,
+            "longitude": 24.8384421819,
+            "name": "Gallen-Kallelan museo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d191941735",
+            "category_name": "Science Museum",
+            "id": "4adcdb23f964a520aa6021e3",
+            "latitude": 60.2876991533,
+            "longitude": 25.0407048783,
+            "name": "Tiedekeskus Heureka / Finnish Science Center (Tiedekeskus Heureka)"
+        },
+        {
+            "category_id": "4bf58dd8d48988d181941735",
+            "category_name": "Museum",
+            "id": "4adcdb23f964a520c86021e3",
+            "latitude": 60.1778,
+            "longitude": 24.92696,
+            "name": "Taidekoti Kirpilä"
+        },
+        {
+            "category_id": "4bf58dd8d48988d181941735",
+            "category_name": "Museum",
+            "id": "4adcdb22f964a520896021e3",
+            "latitude": 60.4543823296,
+            "longitude": 25.0865953464,
+            "name": "Ainola"
+        },
+        {
+            "category_id": "4bf58dd8d48988d190941735",
+            "category_name": "History Museum",
+            "id": "4adcdb23f964a520d16021e3",
+            "latitude": 60.168996,
+            "longitude": 24.954028,
+            "name": "Helsingin kaupunginmuseo / Helsinki City Museum (Helsingin kaupunginmuseo)"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4adcdb23f964a520e46021e3",
+            "latitude": 60.1787582909,
+            "longitude": 24.7946190834,
+            "name": "Espoo Museum of Modern Art (EMMA)"
+        },
+        {
+            "category_id": "56aa371be4b08b9a8d573532",
+            "category_name": "Exhibit",
+            "id": "503895a5e4b00c877aa56c95",
+            "latitude": 60.293691827,
+            "longitude": 24.5570390791,
+            "name": "Suomen luontokeskus Haltia (Haltia - Suomen luontokeskus)"
+        },
+        {
+            "category_id": "4bf58dd8d48988d191941735",
+            "category_name": "Science Museum",
+            "id": "4adcdb23f964a520c66021e3",
+            "latitude": 60.2158740168,
+            "longitude": 24.98332898,
+            "name": "Tekniikan Museo / The Museum of Technology"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4adcdb23f964a520ad6021e3",
+            "latitude": 60.1851640006,
+            "longitude": 24.8566467908,
+            "name": "Didrichsenin taidemuseo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4adcdb23f964a520b46021e3",
+            "latitude": 60.1631327807,
+            "longitude": 24.9477625961,
+            "name": "Suomen arkkitehtuurimuseo (Museum of Finnish Architecture) (Suomen arkkitehtuurimuseo)"
+        },
+        {
+            "category_id": "4bf58dd8d48988d190941735",
+            "category_name": "History Museum",
+            "id": "4adcdb23f964a520c56021e3",
+            "latitude": 60.3045508334,
+            "longitude": 24.9611615902,
+            "name": "Suomen Ilmailumuseo / Finnish Aviation Museum"
+        },
+        {
+            "category_id": "4bf58dd8d48988d181941735",
+            "category_name": "Museum",
+            "id": "4adcdb23f964a520b06021e3",
+            "latitude": 60.1844526895,
+            "longitude": 24.8847793056,
+            "name": "Seurasaari Open-Air Museum (Seurasaaren ulkomuseo)"
+        },
+        {
+            "category_id": "4bf58dd8d48988d190941735",
+            "category_name": "History Museum",
+            "id": "4adcdb23f964a520a96021e3",
+            "latitude": 60.174927,
+            "longitude": 24.931978,
+            "name": "Suomen Kansallismuseo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4be54dec2468c928c1dbff42",
+            "latitude": 60.1625259819,
+            "longitude": 24.9321664993,
+            "name": "Sinebrychoffin taidemuseo / Sinebrychoff Art Museum (Sinebrychoffin Taidemuseo / Sinebrychoff Art Museum)"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e2931735",
+            "category_name": "Art Gallery",
+            "id": "4adcdb23f964a520dc6021e3",
+            "latitude": 60.1721272135,
+            "longitude": 24.9310142308,
+            "name": "Taidehalli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e2931735",
+            "category_name": "Art Gallery",
+            "id": "4adcdb23f964a520d46021e3",
+            "latitude": 60.1744063141,
+            "longitude": 24.9331364532,
+            "name": "Hakasalmen huvila / Villa Hagasund"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4adcdb23f964a520af6021e3",
+            "latitude": 60.1703016454,
+            "longitude": 24.9437876171,
+            "name": "Ateneum"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "5b7bf52b396de0002cf46b08",
+            "latitude": 60.1706431403,
+            "longitude": 24.936529398,
+            "name": "Amos Rex"
+        },
+        {
+            "category_id": "4bf58dd8d48988d191941735",
+            "category_name": "Science Museum",
+            "id": "4adcdb23f964a520c76021e3",
+            "latitude": 60.1713498826,
+            "longitude": 24.9315485229,
+            "name": "Luonnontieteellinen museo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4adcdb23f964a520ab6021e3",
+            "latitude": 60.1716516747,
+            "longitude": 24.9365365182,
+            "name": "Kiasma"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4adcdb23f964a520b16021e3",
+            "latitude": 60.16189,
+            "longitude": 24.90414,
+            "name": "Suomen valokuvataiteen museo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e9931735",
+            "category_name": "Rock Club",
+            "id": "4adcdb22f964a520476021e3",
+            "latitude": 60.1684123645,
+            "longitude": 24.9329912504,
+            "name": "Tavastiaklubi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e7931735",
+            "category_name": "Jazz Club",
+            "id": "4adcdb1ff964a520a55f21e3",
+            "latitude": 60.1737619725,
+            "longitude": 24.932076931,
+            "name": "Storyville"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "5bbfa6041ffed7002b5613eb",
+            "latitude": 60.186613066,
+            "longitude": 24.9735271186,
+            "name": "Suvilahti TBA"
+        },
+        {
+            "category_id": "4bf58dd8d48988d155941735",
+            "category_name": "Gastropub",
+            "id": "4adcdb20f964a520c85f21e3",
+            "latitude": 60.1789011209,
+            "longitude": 24.9471404783,
+            "name": "Juttutupa"
+        },
+        {
+            "category_id": "4bf58dd8d48988d117941735",
+            "category_name": "Beer Garden",
+            "id": "4c559c16a724e21e595460f8",
+            "latitude": 60.1736389179,
+            "longitude": 24.9325159605,
+            "name": "Terrace"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "4adcdb21f964a520066021e3",
+            "latitude": 60.16584,
+            "longitude": 24.931698,
+            "name": "Bar Mendocino"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "4e3f85f2c65b4ec275fddc4d",
+            "latitude": 60.1991285236,
+            "longitude": 24.8697322882,
+            "name": "Länsi-Helsingin musiikkiopisto"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "58f5090662420b4cd63a467a",
+            "latitude": 60.1958940534,
+            "longitude": 24.9506892238,
+            "name": "Playhouse"
+        },
+        {
+            "category_id": "4bf58dd8d48988d11b941735",
+            "category_name": "Pub",
+            "id": "4b1d3391f964a520e30c24e3",
+            "latitude": 60.2074176713,
+            "longitude": 24.9685661849,
+            "name": "Oljenkorsi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "4adcdb22f964a5205c6021e3",
+            "latitude": 60.1842473357,
+            "longitude": 24.9603639592,
+            "name": "Siltanen"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "4adcdb25f964a520446121e3",
+            "latitude": 60.1875844423,
+            "longitude": 24.9596201113,
+            "name": "Lepakkomies"
+        },
+        {
+            "category_id": "4bf58dd8d48988d11b941735",
+            "category_name": "Pub",
+            "id": "4c309d44ed37a59351156903",
+            "latitude": 60.1969197321,
+            "longitude": 25.0544103331,
+            "name": "Hard Rock House"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1ca941735",
+            "category_name": "Pizza Place",
+            "id": "5419e48f498e33b857570bed",
+            "latitude": 60.1657599456,
+            "longitude": 24.9418183451,
+            "name": "Pjazza"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14c941735",
+            "category_name": "Wings Joint",
+            "id": "4adcdb21f964a520fd5f21e3",
+            "latitude": 60.1698149373,
+            "longitude": 24.9356596917,
+            "name": "Henry's Pub"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4adcdb22f964a5207e6021e3",
+            "latitude": 60.2056827206,
+            "longitude": 24.9292100368,
+            "name": "Hartwall Arena"
+        },
+        {
+            "category_id": "5032792091d4c4b30a586d5c",
+            "category_name": "Concert Hall",
+            "id": "4b989e5bf964a5200f4935e3",
+            "latitude": 60.2177696719,
+            "longitude": 24.8088037689,
+            "name": "Sellosali"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "4adcdb25f964a520566121e3",
+            "latitude": 60.1675919454,
+            "longitude": 24.9502285801,
+            "name": "Espan lava"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "4be908f3947820a18a95b5db",
+            "latitude": 60.2176572657,
+            "longitude": 24.8089634897,
+            "name": "Juvenalia Musiikkiopisto"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e7931735",
+            "category_name": "Jazz Club",
+            "id": "4c4218ff3735be9a5b7c19a4",
+            "latitude": 60.2931883102,
+            "longitude": 25.0371332174,
+            "name": "Club Pingviini Street Bar"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "5a21850bc824ae4a31059ad4",
+            "latitude": 60.1817775991,
+            "longitude": 24.953898261,
+            "name": "Mascot Bar & Live Stage"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17c941735",
+            "category_name": "Casino",
+            "id": "4adcdb25f964a5205e6121e3",
+            "latitude": 60.1718566271,
+            "longitude": 24.9455549215,
+            "name": "Casino Helsinki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e9931735",
+            "category_name": "Rock Club",
+            "id": "4e1c8f047d8b8fe8c3091ffa",
+            "latitude": 60.229819019,
+            "longitude": 24.8089346821,
+            "name": "Palokärjen Treenikämpät"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e9931735",
+            "category_name": "Rock Club",
+            "id": "4adcdb21f964a520e35f21e3",
+            "latitude": 60.1711132354,
+            "longitude": 24.9454075098,
+            "name": "On the Rocks"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e9931735",
+            "category_name": "Rock Club",
+            "id": "4adcdb21f964a520026021e3",
+            "latitude": 60.1667034583,
+            "longitude": 24.9373088474,
+            "name": "Bar Loose"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "4adcdb22f964a520516021e3",
+            "latitude": 60.1689049366,
+            "longitude": 24.9390377336,
+            "name": "Apollo Live Club"
+        },
+        {
+            "category_id": "56aa371be4b08b9a8d573538",
+            "category_name": "Theme Restaurant",
+            "id": "4f7d607fe4b0ffb6a37cdd8a",
+            "latitude": 60.1689,
+            "longitude": 24.9414828,
+            "name": "Hard Rock Cafe Helsinki"
+        },
+        {
+            "category_id": "5032792091d4c4b30a586d5c",
+            "category_name": "Concert Hall",
+            "id": "4c15e8cb127f9521ef1b2525",
+            "latitude": 60.1734242,
+            "longitude": 24.9340315,
+            "name": "Musiikkitalo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "4adcdb25f964a520616121e3",
+            "latitude": 60.1665252679,
+            "longitude": 24.9473977089,
+            "name": "Savoy-teatteri"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "57a0607f498ed141105c6099",
+            "latitude": 60.1640688178,
+            "longitude": 24.9444647607,
+            "name": "G Livelab"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "4b64b2aaf964a52038c92ae3",
+            "latitude": 60.1707762329,
+            "longitude": 24.9340766807,
+            "name": "The Circus"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "4bbe21515ce0d13a0ba9df57",
+            "latitude": 60.1690697694,
+            "longitude": 24.9325372662,
+            "name": "Rotterdam"
+        },
+        {
+            "category_id": "50327c8591d4c4b30a586d5d",
+            "category_name": "Brewery",
+            "id": "5f0c61b690a02b480cc62a14",
+            "latitude": 60.184598,
+            "longitude": 24.9606615,
+            "name": "Pien Brewpub"
+        },
+        {
+            "category_id": "4bf58dd8d48988d117941735",
+            "category_name": "Beer Garden",
+            "id": "53b53f15498e31f84ce9481b",
+            "latitude": 60.169324,
+            "longitude": 24.932196,
+            "name": "Rotterdamin terassi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "5c6840f3e55d8b002cc07887",
+            "latitude": 60.1634694696,
+            "longitude": 24.9423792958,
+            "name": "Bar Llamas"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "5da5e7ee33812e0007c1f9b8",
+            "latitude": 60.1978768101,
+            "longitude": 24.9289729446,
+            "name": "Bierhaus Berlin"
+        },
+        {
+            "category_id": "4bf58dd8d48988d143941735",
+            "category_name": "Breakfast Spot",
+            "id": "5cf2b1de270ee7002cb1ef4f",
+            "latitude": 60.183671,
+            "longitude": 24.95173,
+            "name": "FLÄT no 14"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "5a60aaffe1f2287023899c85",
+            "latitude": 60.1873996265,
+            "longitude": 24.9562682291,
+            "name": "Panema"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "5bbfa6041ffed7002b5613eb",
+            "latitude": 60.186613066,
+            "longitude": 24.9735271186,
+            "name": "Suvilahti TBA"
+        },
+        {
+            "category_id": "50327c8591d4c4b30a586d5d",
+            "category_name": "Brewery",
+            "id": "5530c2c1498ebe46790bba10",
+            "latitude": 60.1867764299,
+            "longitude": 24.9731480841,
+            "name": "Stadin Panimobaari"
+        },
+        {
+            "category_id": "4bf58dd8d48988d155941735",
+            "category_name": "Gastropub",
+            "id": "4adcdb20f964a520c85f21e3",
+            "latitude": 60.1789011209,
+            "longitude": 24.9471404783,
+            "name": "Juttutupa"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "58d56440326c5a4a010cdc5a",
+            "latitude": 60.1880777421,
+            "longitude": 24.9659984686,
+            "name": "Sörkan Ruusu"
+        },
+        {
+            "category_id": "4bf58dd8d48988d11b941735",
+            "category_name": "Pub",
+            "id": "4b1d3391f964a520e30c24e3",
+            "latitude": 60.2074176713,
+            "longitude": 24.9685661849,
+            "name": "Oljenkorsi"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "4c420e48e26920a11d755fe7",
+            "latitude": 60.1843485121,
+            "longitude": 24.9531709364,
+            "name": "Sivukirjasto"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d951735",
+            "category_name": "Boat or Ferry",
+            "id": "4bdac4ea63c5c9b6a8d92468",
+            "latitude": 60.1766547407,
+            "longitude": 24.9493946135,
+            "name": "M/S Flying Dutch"
+        },
+        {
+            "category_id": "4bf58dd8d48988d15e941735",
+            "category_name": "Pool",
+            "id": "534bd84d498e7b6c30d71b39",
+            "latitude": 60.167112178,
+            "longitude": 24.9579666693,
+            "name": "Allas Sea Pool"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "4adcdb22f964a5205c6021e3",
+            "latitude": 60.1842473357,
+            "longitude": 24.9603639592,
+            "name": "Siltanen"
+        },
+        {
+            "category_id": "4bf58dd8d48988d118941735",
+            "category_name": "Dive Bar",
+            "id": "4aea0aa8f964a520bfb821e3",
+            "latitude": 60.1882809663,
+            "longitude": 24.9603547555,
+            "name": "Ravintola Iltakoulu"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "5173df84e4b0bb056be47496",
+            "latitude": 60.1869383231,
+            "longitude": 24.9615002777,
+            "name": "Bar Loosister"
+        },
+        {
+            "category_id": "5370f356bcbc57f1066c94c2",
+            "category_name": "Beer Store",
+            "id": "57ab4c95498ef8003be05e61",
+            "latitude": 60.1696731768,
+            "longitude": 24.9445264041,
+            "name": "Pien Shop & Bar"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1c4941735",
+            "category_name": "Restaurant",
+            "id": "5a3aa3b91bc7040b773e856c",
+            "latitude": 60.1855158843,
+            "longitude": 24.8203870654,
+            "name": "Ravintola Fat Lizard"
+        },
+        {
+            "category_id": "4bf58dd8d48988d123941735",
+            "category_name": "Wine Bar",
+            "id": "4cf22f4b6195721e4a3946c1",
+            "latitude": 60.153767429,
+            "longitude": 24.9558714777,
+            "name": "Mattolaituri"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "4adcdb21f964a5201e6021e3",
+            "latitude": 60.1809097625,
+            "longitude": 24.9500131274,
+            "name": "Rytmi"
+        },
+        {
+            "category_id": "56aa371be4b08b9a8d57356a",
+            "category_name": "Outdoor Event Space",
+            "id": "5eff215f80dc900007cf35c7",
+            "latitude": 60.169483,
+            "longitude": 24.952327,
+            "name": "Senaatintorin kesäterassi 2020"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "574f4f55498ec2a700a94efd",
+            "latitude": 60.189237,
+            "longitude": 24.957557,
+            "name": "Pub Aleksis K"
+        },
+        {
+            "category_id": "50327c8591d4c4b30a586d5d",
+            "category_name": "Brewery",
+            "id": "5bb7564365cdf800391b1a68",
+            "latitude": 60.182907,
+            "longitude": 24.82968,
+            "name": "Olarin Panimo"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "4b1972caf964a52088dd23e3",
+            "latitude": 60.1620142653,
+            "longitude": 24.9200665602,
+            "name": "One Pint Pub"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16c941735",
+            "category_name": "Burger Joint",
+            "id": "533a7482498ebe4937dcbee6",
+            "latitude": 60.173534,
+            "longitude": 24.939071,
+            "name": "Woolshed Bar & Kitchen"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "4b577edff964a5202a3828e3",
+            "latitude": 60.1694900301,
+            "longitude": 24.9404992765,
+            "name": "Praha"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1c4941735",
+            "category_name": "Restaurant",
+            "id": "4e2eab9222717d70585813c3",
+            "latitude": 60.2754401232,
+            "longitude": 24.9543310911,
+            "name": "Kahvila-Ravintola Wanha Pehtoori"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "5c93786161f070002cd94d31",
+            "latitude": 60.1658932578,
+            "longitude": 24.9368651998,
+            "name": "Olutravintola Pikkulintu"
+        },
+        {
+            "category_id": "4bf58dd8d48988d163941735",
+            "category_name": "Park",
+            "id": "52c3e1ba498eeb85dd793c71",
+            "latitude": 60.1573004136,
+            "longitude": 24.9179059332,
+            "name": "Hyväntoivonpuisto"
+        },
+        {
+            "category_id": "4bf58dd8d48988d175941735",
+            "category_name": "Gym / Fitness Center",
+            "id": "57da8e80498ef451ccc4f877",
+            "latitude": 60.1795352498,
+            "longitude": 24.9629545212,
+            "name": "Voimalaitos Merihaka"
+        },
+        {
+            "category_id": "4bf58dd8d48988d164941735",
+            "category_name": "Plaza",
+            "id": "4adcdb26f964a520a06121e3",
+            "latitude": 60.1675738044,
+            "longitude": 24.9531437118,
+            "name": "Kauppatori"
+        },
+        {
+            "category_id": "4bf58dd8d48988d15e941735",
+            "category_name": "Pool",
+            "id": "534bd84d498e7b6c30d71b39",
+            "latitude": 60.167112178,
+            "longitude": 24.9579666693,
+            "name": "Allas Sea Pool"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1df941735",
+            "category_name": "Bridge",
+            "id": "55d2203b498ee45209e9659e",
+            "latitude": 60.1820373995,
+            "longitude": 24.9826747924,
+            "name": "Isoisänsilta"
+        },
+        {
+            "category_id": "4bf58dd8d48988d163941735",
+            "category_name": "Park",
+            "id": "4bc5dd675935c9b69378a6d2",
+            "latitude": 60.1999949968,
+            "longitude": 24.91355896,
+            "name": "Keskuspuisto"
+        },
+        {
+            "category_id": "4bf58dd8d48988d164941735",
+            "category_name": "Plaza",
+            "id": "4bae248ff964a52076893be3",
+            "latitude": 60.1693771024,
+            "longitude": 24.9520327762,
+            "name": "Senaatintori"
+        },
+        {
+            "category_id": "4bf58dd8d48988d15e941735",
+            "category_name": "Pool",
+            "id": "4bc5392341cb76b08f2e3e6f",
+            "latitude": 60.1888886281,
+            "longitude": 24.929926353,
+            "name": "Uimastadion"
+        },
+        {
+            "category_id": "50aaa4314b90af0d42d5de10",
+            "category_name": "Island",
+            "id": "4c1ba50db306c928a08462b7",
+            "latitude": 60.1814931474,
+            "longitude": 24.9886211035,
+            "name": "Mustikkamaa / Blåbärslandet"
+        },
+        {
+            "category_id": "4bf58dd8d48988d162941735",
+            "category_name": "Other Great Outdoors",
+            "id": "4f450f52e4b00215c6531bc6",
+            "latitude": 60.1555466701,
+            "longitude": 24.5489034924,
+            "name": "Sundsberg"
+        },
+        {
+            "category_id": "4bf58dd8d48988d175941735",
+            "category_name": "Gym / Fitness Center",
+            "id": "5a4ce3578a6f1771f77f726a",
+            "latitude": 60.1869504478,
+            "longitude": 24.9817943573,
+            "name": "ELIXIA Redi"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b7a26",
+            "category_name": "Recreation Center",
+            "id": "4b156e92f964a520c9ac23e3",
+            "latitude": 60.1795697014,
+            "longitude": 24.962554061,
+            "name": "Merihaan Pallohalli"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b7a26",
+            "category_name": "Recreation Center",
+            "id": "4b0ab5d4f964a520b72623e3",
+            "latitude": 60.1834297712,
+            "longitude": 24.925596714,
+            "name": "Töölön kisahalli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d184941735",
+            "category_name": "Stadium",
+            "id": "4d43f8a54e5d37043abde593",
+            "latitude": 60.1869504478,
+            "longitude": 24.9271631241,
+            "name": "Olympiastadion"
+        },
+        {
+            "category_id": "4bf58dd8d48988d184941735",
+            "category_name": "Stadium",
+            "id": "5f379c8293ea8442f788ba74",
+            "latitude": 60.194218,
+            "longitude": 24.946418,
+            "name": "billebeino padel factory"
+        },
+        {
+            "category_id": "4bf58dd8d48988d184941735",
+            "category_name": "Stadium",
+            "id": "5198e8b4498e1c057444de04",
+            "latitude": 60.1554882243,
+            "longitude": 24.5488929029,
+            "name": "Sundsbergin Stadika"
+        },
+        {
+            "category_id": "4bf58dd8d48988d187941735",
+            "category_name": "Track Stadium",
+            "id": "4c108e63f1b6a593a4207c27",
+            "latitude": 60.19066236,
+            "longitude": 24.9316285493,
+            "name": "Eläintarhan urheilukenttä"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b7a26",
+            "category_name": "Recreation Center",
+            "id": "4c20d6c18082d13a1f45f82a",
+            "latitude": 60.2251565017,
+            "longitude": 24.8005876522,
+            "name": "Leppävaaran urheilupuisto"
+        },
+        {
+            "category_id": "4bf58dd8d48988d175941735",
+            "category_name": "Gym / Fitness Center",
+            "id": "4bd46e0129eb9c74108791e1",
+            "latitude": 60.1767612958,
+            "longitude": 24.7812148688,
+            "name": "Esport Arena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d175941735",
+            "category_name": "Gym / Fitness Center",
+            "id": "4b4edff9f964a520a4f626e3",
+            "latitude": 60.1900029957,
+            "longitude": 24.8971423888,
+            "name": "Meilahden liikuntakeskus"
+        },
+        {
+            "category_id": "4bf58dd8d48988d188941735",
+            "category_name": "Soccer Stadium",
+            "id": "57474d5b498eef633f26efc6",
+            "latitude": 60.1875158546,
+            "longitude": 24.9217665195,
+            "name": "Aitio 226"
+        },
+        {
+            "category_id": "4bf58dd8d48988d188941735",
+            "category_name": "Soccer Stadium",
+            "id": "4c7fdbdb51ada1cd58740410",
+            "latitude": 60.2191289367,
+            "longitude": 25.0791174127,
+            "name": "Pallomylly"
+        },
+        {
+            "category_id": "4bf58dd8d48988d188941735",
+            "category_name": "Soccer Stadium",
+            "id": "4bd26faeb221c9b6a1d0d7d0",
+            "latitude": 60.2178917714,
+            "longitude": 25.1373349941,
+            "name": "Vuosaaren Urheilukenttä - Heteniityn Kenttä"
+        },
+        {
+            "category_id": "4bf58dd8d48988d184941735",
+            "category_name": "Stadium",
+            "id": "510cd096e4b036b555514734",
+            "latitude": 60.3791925711,
+            "longitude": 25.0830576342,
+            "name": "Koivikon urheilukenttä"
+        },
+        {
+            "category_id": "4bf58dd8d48988d188941735",
+            "category_name": "Soccer Stadium",
+            "id": "4adcdb27f964a520f56121e3",
+            "latitude": 60.187622534,
+            "longitude": 24.9226140976,
+            "name": "Bolt Arena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4b64499bf964a52085a82ae3",
+            "latitude": 60.1781345116,
+            "longitude": 24.7861512225,
+            "name": "Espoo Metro Areena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18b941735",
+            "category_name": "Basketball Stadium",
+            "id": "4b6d4a3af964a5207d6f2ce3",
+            "latitude": 60.2599033743,
+            "longitude": 24.8385429382,
+            "name": "Energia Areena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d188941735",
+            "category_name": "Soccer Stadium",
+            "id": "4bc9c6ae937ca5935044a692",
+            "latitude": 60.2618655051,
+            "longitude": 24.8377862065,
+            "name": "Myyrmäen jalkapallostadion"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4b52b05ef964a520068627e3",
+            "latitude": 60.1594917636,
+            "longitude": 24.7513828856,
+            "name": "Matinkylän jäähalli"
+        },
+        {
+            "category_id": "56aa371be4b08b9a8d57352c",
+            "category_name": "Hockey Rink",
+            "id": "4d7b3d9979c4b1f74092e4f2",
+            "latitude": 60.1478871535,
+            "longitude": 24.6624827385,
+            "name": "Espoonlahden harjoitushalli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4d04af5c54d0236a368ff0d5",
+            "latitude": 60.4095507782,
+            "longitude": 25.0928702525,
+            "name": "Keravan jäähalli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4adcdb22f964a5207e6021e3",
+            "latitude": 60.2056827206,
+            "longitude": 24.9292100368,
+            "name": "Hartwall Arena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4cbc4545985db7138d704c19",
+            "latitude": 60.2240031202,
+            "longitude": 24.8061823139,
+            "name": "Leppävaaran jäähalli - Warrior Areena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4adcdb26f964a5206f6121e3",
+            "latitude": 60.1892600199,
+            "longitude": 24.9223780632,
+            "name": "Helsingin jäähalli / Helsingfors ishall (Helsingin jäähalli)"
+        },
+        {
+            "category_id": "4e39a891bd410d7aed40cbc2",
+            "category_name": "Tennis Stadium",
+            "id": "50573302e4b03ac2641f953b",
+            "latitude": 60.1755335883,
+            "longitude": 24.7809007294,
+            "name": "Esport Center Tennis"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4b5c914df964a520043729e3",
+            "latitude": 60.1491966537,
+            "longitude": 24.9213144986,
+            "name": "Hernesaaren jäähalli Jääherne"
+        },
+        {
+            "category_id": "4bf58dd8d48988d189941735",
+            "category_name": "Football Stadium",
+            "id": "4becfc286e8c20a148cf6f61",
+            "latitude": 60.2023983168,
+            "longitude": 24.9423467603,
+            "name": "Helsingin Velodromi"
+        },
+        {
+            "category_id": "4cce455aebf7b749d5e191f5",
+            "category_name": "Soccer Field",
+            "id": "4befab72d4f70f47001c390f",
+            "latitude": 60.2615401998,
+            "longitude": 24.8415447748,
+            "name": "Myyrmäki-halli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4be552cecf200f474d0e133c",
+            "latitude": 60.2998111031,
+            "longitude": 25.0278735614,
+            "name": "Trio Areena"
+        },
+        {
+            "category_id": "4cce455aebf7b749d5e191f5",
+            "category_name": "Soccer Field",
+            "id": "4bae2f3af964a520208f3be3",
+            "latitude": 60.4096659158,
+            "longitude": 25.0913842857,
+            "name": "Kalevan urheilupuisto"
+        },
+        {
+            "category_id": "4bf58dd8d48988d188941735",
+            "category_name": "Soccer Stadium",
+            "id": "4dc508a1fa76d685cdd5e775",
+            "latitude": 60.1862996845,
+            "longitude": 24.9242019653,
+            "name": "Töölön Pallokenttä"
+        },
+        {
+            "category_id": "4bf58dd8d48988d184941735",
+            "category_name": "Stadium",
+            "id": "4c060efd7083952183207bce",
+            "latitude": 60.1595111881,
+            "longitude": 24.9144172668,
+            "name": "Poolokenttä"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "4af5e40ff964a52061fe21e3",
+            "latitude": 60.169483719,
+            "longitude": 24.9310253684,
+            "name": "Finnkino Tennispalatsi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e5931735",
+            "category_name": "Music Venue",
+            "id": "5bbfa6041ffed7002b5613eb",
+            "latitude": 60.186613066,
+            "longitude": 24.9735271186,
+            "name": "Suvilahti TBA"
+        },
+        {
+            "category_id": "4bf58dd8d48988d155941735",
+            "category_name": "Gastropub",
+            "id": "4adcdb20f964a520c85f21e3",
+            "latitude": 60.1789011209,
+            "longitude": 24.9471404783,
+            "name": "Juttutupa"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17e941735",
+            "category_name": "Indie Movie Theater",
+            "id": "56718e91498e08291d65c9a4",
+            "latitude": 60.187863,
+            "longitude": 24.9577,
+            "name": "Riviera"
+        },
+        {
+            "category_id": "4deefb944765f83613cdba6e",
+            "category_name": "Historic Site",
+            "id": "4e5666e0fa763b20fd0bf66e",
+            "latitude": 60.1692991886,
+            "longitude": 24.9603489158,
+            "name": "Vanha rahapaja"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "5d8ef1745f9d590008adfdc0",
+            "latitude": 60.192009,
+            "longitude": 24.949344,
+            "name": "Corona Baari & Bljardi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d184941735",
+            "category_name": "Stadium",
+            "id": "4d43f8a54e5d37043abde593",
+            "latitude": 60.1869504478,
+            "longitude": 24.9271631241,
+            "name": "Olympiastadion"
+        },
+        {
+            "category_id": "4bf58dd8d48988d11b941735",
+            "category_name": "Pub",
+            "id": "4b1d3391f964a520e30c24e3",
+            "latitude": 60.2074176713,
+            "longitude": 24.9685661849,
+            "name": "Oljenkorsi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d184941735",
+            "category_name": "Stadium",
+            "id": "5198e8b4498e1c057444de04",
+            "latitude": 60.1554882243,
+            "longitude": 24.5488929029,
+            "name": "Sundsbergin Stadika"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17b941735",
+            "category_name": "Zoo",
+            "id": "4baf2207f964a520e8ec3be3",
+            "latitude": 60.174861,
+            "longitude": 24.984715,
+            "name": "Helsinki Zoo (Korkeasaaren eläintarha) (Korkeasaaren eläintarha)"
+        },
+        {
+            "category_id": "4deefb944765f83613cdba6e",
+            "category_name": "Historic Site",
+            "id": "4dfb2ec118a8fc7fb43eefe7",
+            "latitude": 60.3384524231,
+            "longitude": 25.1491252766,
+            "name": "Kuninkaantie"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "4adcdb22f964a5205c6021e3",
+            "latitude": 60.1842473357,
+            "longitude": 24.9603639592,
+            "name": "Siltanen"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b7a26",
+            "category_name": "Recreation Center",
+            "id": "4c20d6c18082d13a1f45f82a",
+            "latitude": 60.2251565017,
+            "longitude": 24.8005876522,
+            "name": "Leppävaaran urheilupuisto"
+        },
+        {
+            "category_id": "4bf58dd8d48988d12d941735",
+            "category_name": "Monument / Landmark",
+            "id": "4bb3905342959c74a81e222c",
+            "latitude": 60.1694595274,
+            "longitude": 24.9522256219,
+            "name": "Aleksanteri II -patsas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d175941735",
+            "category_name": "Gym / Fitness Center",
+            "id": "4bd46e0129eb9c74108791e1",
+            "latitude": 60.1767612958,
+            "longitude": 24.7812148688,
+            "name": "Esport Arena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d15e941735",
+            "category_name": "Pool",
+            "id": "4bc5392341cb76b08f2e3e6f",
+            "latitude": 60.1888886281,
+            "longitude": 24.929926353,
+            "name": "Uimastadion"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "5bfec9d43e6741002c8bfd96",
+            "latitude": 60.211614574,
+            "longitude": 25.0833856807,
+            "name": "Finnkino Itis"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1e2931735",
+            "category_name": "Art Gallery",
+            "id": "4adcdb23f964a520dc6021e3",
+            "latitude": 60.1721272135,
+            "longitude": 24.9310142308,
+            "name": "Taidehalli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d17f941735",
+            "category_name": "Movie Theater",
+            "id": "5bfeca701af8520039e51c10",
+            "latitude": 60.2115866409,
+            "longitude": 25.0833388619,
+            "name": "IMAX® Premium"
+        },
+        {
+            "category_id": "4bf58dd8d48988d182941735",
+            "category_name": "Theme Park",
+            "id": "4adcdb27f964a520e56121e3",
+            "latitude": 60.188179,
+            "longitude": 24.940485,
+            "name": "Linnanmäki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d185941735",
+            "category_name": "Hockey Arena",
+            "id": "4be552cecf200f474d0e133c",
+            "latitude": 60.2998111031,
+            "longitude": 25.0278735614,
+            "name": "Trio Areena"
+        },
+        {
+            "category_id": "4bf58dd8d48988d180941735",
+            "category_name": "Multiplex",
+            "id": "4adcdb25f964a5204c6121e3",
+            "latitude": 60.1714362647,
+            "longitude": 24.9456987107,
+            "name": "Finnkino Kinopalatsi"
+        },
+        {
+            "category_id": "5032792091d4c4b30a586d5c",
+            "category_name": "Concert Hall",
+            "id": "4c15e8cb127f9521ef1b2525",
+            "latitude": 60.1734242,
+            "longitude": 24.9340315,
+            "name": "Musiikkitalo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d136941735",
+            "category_name": "Opera House",
+            "id": "4adcdb25f964a520536121e3",
+            "latitude": 60.1816898841,
+            "longitude": 24.9295434222,
+            "name": "Kansallisooppera"
+        },
+        {
+            "category_id": "4bf58dd8d48988d137941735",
+            "category_name": "Theater",
+            "id": "4adcdb26f964a5206d6121e3",
+            "latitude": 60.1635204304,
+            "longitude": 24.933584127,
+            "name": "Aleksanterin teatteri"
+        },
+        {
+            "category_id": "4bf58dd8d48988d137941735",
+            "category_name": "Theater",
+            "id": "4be43704bcef2d7f053602e5",
+            "latitude": 60.1816106126,
+            "longitude": 24.9427635509,
+            "name": "Helsingin Kaupunginteatteri"
+        },
+        {
+            "category_id": "4bf58dd8d48988d190941735",
+            "category_name": "History Museum",
+            "id": "4adcdb23f964a520a96021e3",
+            "latitude": 60.174927,
+            "longitude": 24.931978,
+            "name": "Suomen Kansallismuseo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d163941735",
+            "category_name": "Park",
+            "id": "4bd02eef9854d13aa735f74d",
+            "latitude": 60.165951,
+            "longitude": 24.939823,
+            "name": "Vanha kirkkopuisto (Ruttopuisto)"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79ee",
+            "category_name": "Street Art",
+            "id": "5651be84498edc1813cfc34c",
+            "latitude": 60.168195802,
+            "longitude": 24.9428670851,
+            "name": "Stockmannin jouluikkuna"
+        },
+        {
+            "category_id": "4bf58dd8d48988d18f941735",
+            "category_name": "Art Museum",
+            "id": "4adcdb23f964a520ab6021e3",
+            "latitude": 60.1716516747,
+            "longitude": 24.9365365182,
+            "name": "Kiasma"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "53effe04498e08d769e4a7d8",
+            "latitude": 60.171398,
+            "longitude": 24.927136,
+            "name": "puisto helsingissä ja mäkki"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "5e667369e160900008d1d5f9",
+            "latitude": 60.165015,
+            "longitude": 24.951116,
+            "name": "Version"
+        },
+        {
+            "category_id": "4bf58dd8d48988d157941735",
+            "category_name": "New American Restaurant",
+            "id": "5b1a740a628c83002c1eb250",
+            "latitude": 60.2182097843,
+            "longitude": 24.8080896085,
+            "name": "Smokers Beer & BBQ"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "59fcc096805e3f037dd304d4",
+            "latitude": 60.1665247121,
+            "longitude": 24.9522445807,
+            "name": "Sue Ellen"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "5dbc3fd4020c500008d49618",
+            "latitude": 60.1755075355,
+            "longitude": 24.8039773107,
+            "name": "Madison Gastro&Wine"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "5d527556dfef1a0008e86960",
+            "latitude": 60.1991063,
+            "longitude": 24.9304252007,
+            "name": "O'Learys"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "4b3d323ef964a520049025e3",
+            "latitude": 60.2910922263,
+            "longitude": 24.9650578588,
+            "name": "Chico's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "4c2f64316f1fef3b0e87eb3d",
+            "latitude": 60.2933793175,
+            "longitude": 25.0368465594,
+            "name": "Chico's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "5817125738fa73296b651abb",
+            "latitude": 60.1598288291,
+            "longitude": 24.738330245,
+            "name": "O'Learys"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "4bac7facf964a520cff73ae3",
+            "latitude": 60.2178906718,
+            "longitude": 24.8107797692,
+            "name": "Chico's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "4ba3b987f964a520945838e3",
+            "latitude": 60.227215982,
+            "longitude": 25.0093976408,
+            "name": "Chico's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1c1941735",
+            "category_name": "Mexican Restaurant",
+            "id": "4b3f18bef964a520fda325e3",
+            "latitude": 60.2903002168,
+            "longitude": 24.9694781624,
+            "name": "Amarillo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "4b1120adf964a520397823e3",
+            "latitude": 60.2026195456,
+            "longitude": 24.9671146274,
+            "name": "Chico's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "4ba3c17ef964a520d15b38e3",
+            "latitude": 60.2081448615,
+            "longitude": 25.1441069139,
+            "name": "Chico's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "56162afb498e06d0c3d0f98f",
+            "latitude": 60.2187892,
+            "longitude": 24.8124676,
+            "name": "O'Learys"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1cc941735",
+            "category_name": "Steakhouse",
+            "id": "4b4887e3f964a520d24e26e3",
+            "latitude": 60.29367,
+            "longitude": 25.03419,
+            "name": "Ravintola Oklahoma"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "5284952e498e67a10aa791f2",
+            "latitude": 60.3956718347,
+            "longitude": 25.1093735413,
+            "name": "Maku&Pala"
+        },
+        {
+            "category_id": "4bf58dd8d48988d157941735",
+            "category_name": "New American Restaurant",
+            "id": "5805e4dd38fa86cde8cd86fe",
+            "latitude": 60.1592045073,
+            "longitude": 24.921760501,
+            "name": "Kitchen & Table"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "56c49459cd104835eb039349",
+            "latitude": 60.2919896604,
+            "longitude": 24.964048393,
+            "name": "Classic American Diner"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "529339e911d26e8f9e301f75",
+            "latitude": 60.342086,
+            "longitude": 24.920381,
+            "name": "Kiila"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "5817125138fa862eb166e59c",
+            "latitude": 60.3180776109,
+            "longitude": 24.9654139025,
+            "name": "O'Learys"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57356c",
+            "category_name": "Beer Bar",
+            "id": "584589b3668af751c28c918f",
+            "latitude": 60.1719626004,
+            "longitude": 24.9474353763,
+            "name": "Sori Taproom"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "5243f54c11d2a9f4db6fce3a",
+            "latitude": 60.1688406812,
+            "longitude": 24.9383661164,
+            "name": "O'Learys"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "4b603bfaf964a52038db29e3",
+            "latitude": 60.1698257534,
+            "longitude": 24.9470198117,
+            "name": "Memphis Hesari"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "56bcc3c1498e7be180d65d6b",
+            "latitude": 60.1647080238,
+            "longitude": 24.9413075467,
+            "name": "Penny"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "555da546498ec84f7f80c149",
+            "latitude": 60.1626999671,
+            "longitude": 24.9331590837,
+            "name": "Southpark Restaurant"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "4b780a30f964a52024b32ee3",
+            "latitude": 60.1830963542,
+            "longitude": 24.9248564243,
+            "name": "Chico's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "525d50ad498e6f6dc965799f",
+            "latitude": 60.169532,
+            "longitude": 24.941669,
+            "name": "Smoothdog Machine"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14e941735",
+            "category_name": "American Restaurant",
+            "id": "55110f20498efc6dd18bc6c2",
+            "latitude": 60.267023,
+            "longitude": 25.056117,
+            "name": "Luokka 102"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79fb",
+            "category_name": "Himalayan Restaurant",
+            "id": "4adcdb24f964a5200c6121e3",
+            "latitude": 60.167004,
+            "longitude": 24.927464,
+            "name": "Mount Everest"
+        },
+        {
+            "category_id": "4eb1bd1c3b7b55596b4a748f",
+            "category_name": "Filipino Restaurant",
+            "id": "5d1b105ab55cb800231261f6",
+            "latitude": 60.166469,
+            "longitude": 24.945982,
+            "name": "Paisano"
+        },
+        {
+            "category_id": "4bf58dd8d48988d142941735",
+            "category_name": "Asian Restaurant",
+            "id": "5e1ee57cde09480007df6de8",
+            "latitude": 60.175584,
+            "longitude": 24.830895,
+            "name": "Lucy in the Sky"
+        },
+        {
+            "category_id": "4bf58dd8d48988d142941735",
+            "category_name": "Asian Restaurant",
+            "id": "5ebd30da863e0900078de28f",
+            "latitude": 60.15797,
+            "longitude": 24.935805,
+            "name": "SameSame - But Different"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14a941735",
+            "category_name": "Vietnamese Restaurant",
+            "id": "5d5431398c5572000864b7e5",
+            "latitude": 60.167864,
+            "longitude": 24.937574,
+            "name": "Phở Việt - Vietnamese Kitchen"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1d2941735",
+            "category_name": "Sushi Restaurant",
+            "id": "5d388af8d08509000886a098",
+            "latitude": 60.2072153328,
+            "longitude": 24.7494097799,
+            "name": "Itsudemo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d145941735",
+            "category_name": "Chinese Restaurant",
+            "id": "5dbff39a9a3f6800088e45bf",
+            "latitude": 60.198784,
+            "longitude": 24.932745,
+            "name": "Brokadi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d149941735",
+            "category_name": "Thai Restaurant",
+            "id": "5da990c6a830360007c78a26",
+            "latitude": 60.1986579823,
+            "longitude": 24.9300545454,
+            "name": "Bangkok 9"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1d2941735",
+            "category_name": "Sushi Restaurant",
+            "id": "5baa7261c21cb1002c829db7",
+            "latitude": 60.163629,
+            "longitude": 24.941184,
+            "name": "Haru+"
+        },
+        {
+            "category_id": "4bf58dd8d48988d142941735",
+            "category_name": "Asian Restaurant",
+            "id": "5f35725aae562379c5feca07",
+            "latitude": 60.165908,
+            "longitude": 24.943775,
+            "name": "Restaurant Lily Lee"
+        },
+        {
+            "category_id": "4bf58dd8d48988d142941735",
+            "category_name": "Asian Restaurant",
+            "id": "5f27e35f8101276da0e91ef6",
+            "latitude": 60.1918186948,
+            "longitude": 24.9495877326,
+            "name": "Loi Loi Rooftop & Distillery"
+        },
+        {
+            "category_id": "4bf58dd8d48988d111941735",
+            "category_name": "Japanese Restaurant",
+            "id": "5f6b08422484fa3b4811109e",
+            "latitude": 60.198635,
+            "longitude": 24.93009,
+            "name": "Sizzle Station"
+        },
+        {
+            "category_id": "4bf58dd8d48988d149941735",
+            "category_name": "Thai Restaurant",
+            "id": "5ee116c4d3067b4e75b8015e",
+            "latitude": 60.169749,
+            "longitude": 24.948025,
+            "name": "The Other One"
+        },
+        {
+            "category_id": "4bf58dd8d48988d142941735",
+            "category_name": "Asian Restaurant",
+            "id": "5f4f5ffdef76153d7f12d1e8",
+            "latitude": 60.206688,
+            "longitude": 25.145899,
+            "name": "Kung Food Panda"
+        },
+        {
+            "category_id": "4bf58dd8d48988d111941735",
+            "category_name": "Japanese Restaurant",
+            "id": "5f5b8cdd7e7a2b5899a2d916",
+            "latitude": 60.187929,
+            "longitude": 24.963163,
+            "name": "Bistro Koi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1d2941735",
+            "category_name": "Sushi Restaurant",
+            "id": "5e888789e177c700081ab72e",
+            "latitude": 60.188377,
+            "longitude": 24.954393,
+            "name": "Oishi 18"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1d2941735",
+            "category_name": "Sushi Restaurant",
+            "id": "551bc335498e1d14376ac9ec",
+            "latitude": 60.1837740636,
+            "longitude": 24.9588911907,
+            "name": "Sushi Forest"
+        },
+        {
+            "category_id": "4bf58dd8d48988d145941735",
+            "category_name": "Chinese Restaurant",
+            "id": "4be3e20af07b0f47150af943",
+            "latitude": 60.2835563886,
+            "longitude": 24.9719718484,
+            "name": "Restaurant Ju Fu"
+        },
+        {
+            "category_id": "4bf58dd8d48988d111941735",
+            "category_name": "Japanese Restaurant",
+            "id": "5915e45d2be4255698a1d106",
+            "latitude": 60.1832776013,
+            "longitude": 24.9470767677,
+            "name": "Kampai3"
+        },
+        {
+            "category_id": "4bf58dd8d48988d111941735",
+            "category_name": "Japanese Restaurant",
+            "id": "5f5624627c3eba1a6424b8f9",
+            "latitude": 60.168902,
+            "longitude": 24.941768,
+            "name": "hanko sushi citykäytävä"
+        },
+        {
+            "category_id": "4bf58dd8d48988d149941735",
+            "category_name": "Thai Restaurant",
+            "id": "5a26cb55646e3812000a9028",
+            "latitude": 60.1700893543,
+            "longitude": 24.9416245063,
+            "name": "Bangkok9"
+        },
+        {
+            "category_id": "4bf58dd8d48988d145941735",
+            "category_name": "Chinese Restaurant",
+            "id": "5cf50f2ac03635002ccdb4c3",
+            "latitude": 60.170032,
+            "longitude": 24.941658,
+            "name": "Biáng!"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14a941735",
+            "category_name": "Vietnamese Restaurant",
+            "id": "5bc066201f8ed6002ce11f8f",
+            "latitude": 60.1859449236,
+            "longitude": 24.9615017189,
+            "name": "Lie Mi"
+        },
+        {
+            "category_id": "4bf58dd8d48988d145941735",
+            "category_name": "Chinese Restaurant",
+            "id": "4af93b0ef964a5202d1122e3",
+            "latitude": 60.1679399503,
+            "longitude": 24.9354126196,
+            "name": "New Bamboo Center"
+        },
+        {
+            "category_id": "55a59bace4b013909087cb24",
+            "category_name": "Ramen Restaurant",
+            "id": "554b9456498ef3a307258e5c",
+            "latitude": 60.162864,
+            "longitude": 24.92902,
+            "name": "Fat Ramen"
+        },
+        {
+            "category_id": "4bf58dd8d48988d149941735",
+            "category_name": "Thai Restaurant",
+            "id": "574d9c20cd10c7caa48aa372",
+            "latitude": 60.1643670985,
+            "longitude": 24.932644518,
+            "name": "The Red Koi Thai"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79fb",
+            "category_name": "Himalayan Restaurant",
+            "id": "4b7c27b9f964a520ab802fe3",
+            "latitude": 60.172085,
+            "longitude": 24.944626,
+            "name": "Mount Everest"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79fb",
+            "category_name": "Himalayan Restaurant",
+            "id": "55e40c53498e84aea46eff18",
+            "latitude": 60.1631978383,
+            "longitude": 24.927785673,
+            "name": "Aangan"
+        },
+        {
+            "category_id": "4bf58dd8d48988d14a941735",
+            "category_name": "Vietnamese Restaurant",
+            "id": "598c1ae13149b904bb2af868",
+            "latitude": 60.1878099461,
+            "longitude": 24.9531118753,
+            "name": "Cafe namnam."
+        },
+        {
+            "category_id": "4bf58dd8d48988d1d2941735",
+            "category_name": "Sushi Restaurant",
+            "id": "58d00c079b615c2b385e7822",
+            "latitude": 60.1696845372,
+            "longitude": 24.936861426,
+            "name": "Haiku"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4b2034eff964a520af2e24e3",
+            "latitude": 60.1689349368,
+            "longitude": 24.9300942682,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "5cca55093c858d002c4d90a3",
+            "latitude": 60.169132,
+            "longitude": 24.930536,
+            "name": "Taco Bell"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "5d3c34506a65c60008f152ce",
+            "latitude": 60.2072892973,
+            "longitude": 24.7492488474,
+            "name": "Burger King"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "5d3061b7d6746d00081e4972",
+            "latitude": 60.2071450331,
+            "longitude": 24.7497933358,
+            "name": "Taco Bell"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "5aedd74f25ecca002c6511c7",
+            "latitude": 60.241898341,
+            "longitude": 24.9758801244,
+            "name": "Burger King"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4cf93a0ae8e254814904dc62",
+            "latitude": 60.2971345066,
+            "longitude": 24.8845025299,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4ba5ef28f964a520152a39e3",
+            "latitude": 60.1942161454,
+            "longitude": 25.0375030637,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4baa4bebf964a520335c3ae3",
+            "latitude": 60.2429149442,
+            "longitude": 24.9783549223,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4bee687ee24d20a1a4e57214",
+            "latitude": 60.1898904336,
+            "longitude": 24.917142081,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4d28bc1e342d6dcb9fa5fbca",
+            "latitude": 60.1214716572,
+            "longitude": 24.4416385646,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "59fc778728374e3a5955f0c6",
+            "latitude": 60.2311277463,
+            "longitude": 25.0547286208,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "566049c1498ea18d8a6766ba",
+            "latitude": 60.15168,
+            "longitude": 24.65401,
+            "name": "Burger King"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "5c84f465b9a5a80039b09c82",
+            "latitude": 60.162296,
+            "longitude": 24.711008,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4be92520ee96c9284ed7febf",
+            "latitude": 60.2085457071,
+            "longitude": 24.7441655259,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4b56d3a6f964a520461c28e3",
+            "latitude": 60.1864924751,
+            "longitude": 24.9478276712,
+            "name": "Hesburger"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "5901c03e75a6ea4753c748d3",
+            "latitude": 60.29257,
+            "longitude": 25.04369,
+            "name": "Burger King"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4b4d8983f964a520bfd326e3",
+            "latitude": 60.1711788875,
+            "longitude": 24.7779712419,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4c1ce057624b9c740fd91204",
+            "latitude": 60.1955230258,
+            "longitude": 24.8907757328,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4ca87ed4f47ea1433c757521",
+            "latitude": 60.1904717348,
+            "longitude": 24.9560433285,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d113951735",
+            "category_name": "Gas Station",
+            "id": "4c097cb13c70b71344d4275b",
+            "latitude": 60.2416219391,
+            "longitude": 24.9262865757,
+            "name": "Teboil"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "59ee6702018cbb118bae13b2",
+            "latitude": 60.2189449714,
+            "longitude": 24.8133647373,
+            "name": "Taco Bell"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4bacd545f964a5203a103be3",
+            "latitude": 60.2835231272,
+            "longitude": 25.0287100167,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4bae3023f964a520858f3be3",
+            "latitude": 60.2182861762,
+            "longitude": 24.6595561582,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4b235f9df964a520845524e3",
+            "latitude": 60.2638331596,
+            "longitude": 24.8721272155,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4d9ddfe150aa41bda17814e1",
+            "latitude": 60.2740979,
+            "longitude": 24.8112352,
+            "name": "Hesburger"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "5d151400af35f30025a9a0c4",
+            "latitude": 60.17894,
+            "longitude": 24.923532,
+            "name": "Black Grill&Cafe"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4b2919e8f964a520b99824e3",
+            "latitude": 60.2019276573,
+            "longitude": 24.8816154864,
+            "name": "Hesburger"
+        },
+        {
+            "category_id": "5283c7b4e4b094cb91ec88d7",
+            "category_name": "Kebab Restaurant",
+            "id": "4adcdb23f964a520f26021e3",
+            "latitude": 60.166504,
+            "longitude": 24.932934,
+            "name": "Eerikin Pippuri"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "52f2130c498e7c57f7b0abab",
+            "latitude": 60.1709416,
+            "longitude": 24.9420629,
+            "name": "Burger King"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "53397c4d498ef67162207461",
+            "latitude": 60.1712271646,
+            "longitude": 24.9411592692,
+            "name": "Hesburger"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "5d7d3e8272c4090008ef54a7",
+            "latitude": 60.179088,
+            "longitude": 24.923556,
+            "name": "Piglets"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "5f54b03891c6ad6e5106f366",
+            "latitude": 60.168618,
+            "longitude": 24.950616,
+            "name": "W30"
+        },
+        {
+            "category_id": "57558b36e4b065ecebd306b0",
+            "category_name": "Brasserie",
+            "id": "5d63e4bed3702c0008a57fe7",
+            "latitude": 60.1669736056,
+            "longitude": 24.9450588226,
+            "name": "Alexanderplats"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "59a05b7559fe5c691f027261",
+            "latitude": 60.158146,
+            "longitude": 24.949078,
+            "name": "Ravintola Jura"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "5ebfb09a9cfa690008c2af54",
+            "latitude": 60.195442,
+            "longitude": 24.958944,
+            "name": "Tartine"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "55ca1375498e16a41b76e2f3",
+            "latitude": 60.1581286623,
+            "longitude": 24.9419866471,
+            "name": "La Maison"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1c6941735",
+            "category_name": "Scandinavian Restaurant",
+            "id": "4b802da8f964a520a35930e3",
+            "latitude": 60.1603406517,
+            "longitude": 24.9464415014,
+            "name": "Maxill"
+        },
+        {
+            "category_id": "57558b36e4b065ecebd306b0",
+            "category_name": "Brasserie",
+            "id": "5d99d0cd8bdd6b00085d7946",
+            "latitude": 60.178908,
+            "longitude": 24.794851,
+            "name": "brasserie lumiere"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "54de3927498ee5066430b56b",
+            "latitude": 60.158089,
+            "longitude": 24.942008,
+            "name": "Fenkoli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d110941735",
+            "category_name": "Italian Restaurant",
+            "id": "518229a1498e6bbc0975a14d",
+            "latitude": 59.8751550479,
+            "longitude": 24.8692931235,
+            "name": "A'la Carte"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4f69bdf7e4b074b7db50357c",
+            "latitude": 60.158572,
+            "longitude": 24.946192,
+            "name": "Cotelette Et Caviar"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4adcdb24f964a5201d6121e3",
+            "latitude": 60.1714855526,
+            "longitude": 24.9399868119,
+            "name": "Eliel"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "5162fe72e4b02b32f9838764",
+            "latitude": 60.1643415143,
+            "longitude": 24.9475847948,
+            "name": "Ravintola Pastis"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4bf7a40b8d30d13a1658ff17",
+            "latitude": 60.1584747406,
+            "longitude": 24.9461109624,
+            "name": "Paulette"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4bcad7ee937ca5935890a892",
+            "latitude": 60.2090662668,
+            "longitude": 24.8666641727,
+            "name": "Ravintola Pikku Ranska"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "56fd0eaccd1000ea71b7f307",
+            "latitude": 60.1695295824,
+            "longitude": 24.9473550686,
+            "name": "Frans&Amélie"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4adcdb24f964a520276121e3",
+            "latitude": 60.18118,
+            "longitude": 24.92728,
+            "name": "Carelia"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4cd40a7da61c46881eb7b628",
+            "latitude": 60.1652676464,
+            "longitude": 24.9359570521,
+            "name": "Ravintola Muru"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "58f5c9d882644478120ead7d",
+            "latitude": 60.1674071396,
+            "longitude": 24.9491783011,
+            "name": "Pompier"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4f854e43e4b0d19a2eb78711",
+            "latitude": 60.1854,
+            "longitude": 24.9674,
+            "name": "Cafe du Coin"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "512cd49c29a6e163a844d161",
+            "latitude": 60.1703900377,
+            "longitude": 24.9394721343,
+            "name": "Brasserie Le Havre"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4e4bad62d22d8354d6ef73e8",
+            "latitude": 60.196823,
+            "longitude": 24.882857,
+            "name": "Solnan Grilli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4adcdb24f964a520016121e3",
+            "latitude": 60.1697999179,
+            "longitude": 24.9351029068,
+            "name": "Henry's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "53c0f43e498e434041852e66",
+            "latitude": 60.259001,
+            "longitude": 25.080272,
+            "name": "Aliisa's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "5120ae48e4b09c464a4fdb6f",
+            "latitude": 60.1569,
+            "longitude": 24.9452,
+            "name": "La Creperie"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "52808337498e9d7f11bc9782",
+            "latitude": 60.1766051759,
+            "longitude": 24.7443309451,
+            "name": "Boulangerie La Maison Pillon"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10c941735",
+            "category_name": "French Restaurant",
+            "id": "4adcdb24f964a520266121e3",
+            "latitude": 60.1813518614,
+            "longitude": 24.9271953106,
+            "name": "Ravintola Lyon"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10d941735",
+            "category_name": "German Restaurant",
+            "id": "5210caae11d27d2705c7b996",
+            "latitude": 60.163232,
+            "longitude": 24.914237,
+            "name": "Zum Bischofshofen"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10d941735",
+            "category_name": "German Restaurant",
+            "id": "4adcdb20f964a520b05f21e3",
+            "latitude": 60.1743625106,
+            "longitude": 24.9582179616,
+            "name": "Zinnkeller"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16d941735",
+            "category_name": "Café",
+            "id": "54b7afd7498e14dd463285e8",
+            "latitude": 60.1712844016,
+            "longitude": 24.9566228295,
+            "name": "Cafe LOV"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10d941735",
+            "category_name": "German Restaurant",
+            "id": "520253d3498e22dd573afea6",
+            "latitude": 60.169599461,
+            "longitude": 24.9346518517,
+            "name": "Schwenkgrill Bratwurst-steaks"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10d941735",
+            "category_name": "German Restaurant",
+            "id": "57f6a8c5498e4abf0a6581c8",
+            "latitude": 60.2383,
+            "longitude": 24.876984,
+            "name": "Chris's Crib"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10d941735",
+            "category_name": "German Restaurant",
+            "id": "4e50e9b462e14b77e3b087b2",
+            "latitude": 60.1646026362,
+            "longitude": 24.9406826142,
+            "name": "Wurstsalon"
+        },
+        {
+            "category_id": "4bf58dd8d48988d10d941735",
+            "category_name": "German Restaurant",
+            "id": "4adcdb25f964a5203d6121e3",
+            "latitude": 60.1660916925,
+            "longitude": 24.9438551918,
+            "name": "Rymy-Eetu"
+        },
+        {
+            "category_id": "56aa371ce4b08b9a8d57358b",
+            "category_name": "Currywurst Joint",
+            "id": "541c8fa1498eede0eaf7c0ad",
+            "latitude": 60.1707201891,
+            "longitude": 24.9437552691,
+            "name": "Currywursthaus"
+        },
+        {
+            "category_id": "52960bac3cf9994f4e043ac4",
+            "category_name": "Romanian Restaurant",
+            "id": "5db010006c80e800080c36d7",
+            "latitude": 60.21684,
+            "longitude": 24.88171,
+            "name": "Adri's Lounas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d109941735",
+            "category_name": "Eastern European Restaurant",
+            "id": "53c39e21498ef5910d7e5fe7",
+            "latitude": 60.00522995,
+            "longitude": 24.9152565002,
+            "name": "Pegasus"
+        },
+        {
+            "category_id": "4bf58dd8d48988d109941735",
+            "category_name": "Eastern European Restaurant",
+            "id": "56ad911b498eabc4332ee173",
+            "latitude": 60.151013,
+            "longitude": 24.6552,
+            "name": "Adria Delicatess"
+        },
+        {
+            "category_id": "4bf58dd8d48988d109941735",
+            "category_name": "Eastern European Restaurant",
+            "id": "5197bd03498ec814d180c50a",
+            "latitude": 60.1828973744,
+            "longitude": 24.9575071017,
+            "name": "Cafe 'Cheburashka\""
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "5a291b0e3b4e002f8d868c2b",
+            "latitude": 60.169064,
+            "longitude": 24.92927,
+            "name": "La Carretera"
+        },
+        {
+            "category_id": "4bf58dd8d48988d155941735",
+            "category_name": "Gastropub",
+            "id": "5564aa23498e8b9beb1de7c5",
+            "latitude": 60.18732,
+            "longitude": 24.955069,
+            "name": "Tenho Restobar"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "5bf9872fbfc6d0002cc31e31",
+            "latitude": 60.185693,
+            "longitude": 24.953023,
+            "name": "Bar Cón"
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "4be452942468c928829afe42",
+            "latitude": 60.1856992386,
+            "longitude": 25.0323815506,
+            "name": "Restaurante Del Mar"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "5bb0c661cb3fd2002cf66a4f",
+            "latitude": 60.161523085,
+            "longitude": 24.7372050583,
+            "name": "B.I.T.E Bar Y Tapas"
+        },
+        {
+            "category_id": "56aa371be4b08b9a8d573538",
+            "category_name": "Theme Restaurant",
+            "id": "5d2c98d5d1c26700237e46ee",
+            "latitude": 60.16371,
+            "longitude": 24.943153,
+            "name": "Pincho Nation"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "4d7ba575cf3f37044adc3f40",
+            "latitude": 60.1627707328,
+            "longitude": 24.7913575172,
+            "name": "Westend Siesta"
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "4bb7a1aa98c7ef3b0b193002",
+            "latitude": 60.158375,
+            "longitude": 24.949582,
+            "name": "Restaurant Amigo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "4c78fcdda8683704ccf20e4d",
+            "latitude": 60.1990148915,
+            "longitude": 24.9252975344,
+            "name": "Restaurant Sevilla"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "4cd448a2886cb60c23317d89",
+            "latitude": 60.2905368239,
+            "longitude": 24.9689084179,
+            "name": "Tapas BarCelona"
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "5e29a0df8bfc6a0007c16ff8",
+            "latitude": 60.176468,
+            "longitude": 24.801321,
+            "name": "Tapaspoint"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "5dd833da251c1c0008cd8046",
+            "latitude": 60.314348,
+            "longitude": 24.851238,
+            "name": "Ortega’s"
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "5e0740ebabfb32000851acc3",
+            "latitude": 60.15815,
+            "longitude": 24.913074,
+            "name": "Dos Pulpos"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "5ae38df06e4650002ceb21ca",
+            "latitude": 60.17232,
+            "longitude": 24.95441,
+            "name": "Cafe Kruunu"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "5841c31406f1a34af8f8f3b0",
+            "latitude": 60.1692658531,
+            "longitude": 24.9338245383,
+            "name": "Bar Cón"
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "4b11248af964a5205e7823e3",
+            "latitude": 60.1703129481,
+            "longitude": 24.9392951801,
+            "name": "Casa Largo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "4adcdb25f964a520476121e3",
+            "latitude": 60.1682253507,
+            "longitude": 24.9451812859,
+            "name": "Tapas BarCelona"
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "4c7fc9662042b1f7f5e0c3ad",
+            "latitude": 60.1704688899,
+            "longitude": 24.932498698,
+            "name": "Restaurant Sevilla"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "581235c338fa0b52f9110c2a",
+            "latitude": 60.163508,
+            "longitude": 24.94207,
+            "name": "TPAS"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "53775e55498e6e2424d3e9fd",
+            "latitude": 60.188947,
+            "longitude": 24.958425,
+            "name": "Harju Tapas"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "4dd7a039ae60680f150acf87",
+            "latitude": 60.156071,
+            "longitude": 24.93149572,
+            "name": "Monje"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "562a4fdc498ed8212c83b3b7",
+            "latitude": 60.1660772312,
+            "longitude": 24.9376721563,
+            "name": "Palma"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "575ae1a0cd1047cbd774d532",
+            "latitude": 60.171215,
+            "longitude": 24.94418,
+            "name": "Tapasfestivaali"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "4e511b49a80997aa8a4fdbfb",
+            "latitude": 60.163691,
+            "longitude": 24.938557,
+            "name": "Ravintola 2"
+        },
+        {
+            "category_id": "52f2ab2ebcbc57f1066b8b3d",
+            "category_name": "Pop-Up Shop",
+            "id": "521e276b11d2a73cbd0aff2e",
+            "latitude": 60.1697422349,
+            "longitude": 24.9474459773,
+            "name": "Un Cerdo Ciego"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1db931735",
+            "category_name": "Tapas Restaurant",
+            "id": "4adcdb21f964a520096021e3",
+            "latitude": 60.180539,
+            "longitude": 24.924911,
+            "name": "Bar Teos"
+        },
+        {
+            "category_id": "4bf58dd8d48988d150941735",
+            "category_name": "Spanish Restaurant",
+            "id": "4adcdb24f964a5200f6121e3",
+            "latitude": 60.167822693,
+            "longitude": 24.9370452615,
+            "name": "Parrilla Española"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4b2034eff964a520af2e24e3",
+            "latitude": 60.1689349368,
+            "longitude": 24.9300942682,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d151941735",
+            "category_name": "Taco Place",
+            "id": "5daec76c5e7a4d0007681a87",
+            "latitude": 60.190265,
+            "longitude": 24.97184,
+            "name": "Lopez y Lopez"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16c941735",
+            "category_name": "Burger Joint",
+            "id": "5fa142959bf06174be673afa",
+            "latitude": 60.1628984259,
+            "longitude": 24.9225267486,
+            "name": "Konttiravintola Morton"
+        },
+        {
+            "category_id": "50327c8591d4c4b30a586d5d",
+            "category_name": "Brewery",
+            "id": "5f0c61b690a02b480cc62a14",
+            "latitude": 60.184598,
+            "longitude": 24.9606615,
+            "name": "Pien Brewpub"
+        },
+        {
+            "category_id": "4bf58dd8d48988d120951735",
+            "category_name": "Food Court",
+            "id": "5db3250b59868400072dad9c",
+            "latitude": 60.175708,
+            "longitude": 24.804493,
+            "name": "Food Garden"
+        },
+        {
+            "category_id": "52e81612bcbc57f1066b79f1",
+            "category_name": "Bistro",
+            "id": "5bf2e1633af988002c0774ed",
+            "latitude": 60.1680143661,
+            "longitude": 24.9427199364,
+            "name": "Bistro"
+        },
+        {
+            "category_id": "4bf58dd8d48988d155941735",
+            "category_name": "Gastropub",
+            "id": "4adcdb20f964a520c85f21e3",
+            "latitude": 60.1789011209,
+            "longitude": 24.9471404783,
+            "name": "Juttutupa"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16d941735",
+            "category_name": "Café",
+            "id": "4adcdb22f964a520366021e3",
+            "latitude": 60.1541205752,
+            "longitude": 24.7733505122,
+            "name": "Café Mellsten"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1c6941735",
+            "category_name": "Scandinavian Restaurant",
+            "id": "5b4c70d1829b0c002c9fe358",
+            "latitude": 60.1831982839,
+            "longitude": 24.9586390454,
+            "name": "Tanner"
+        },
+        {
+            "category_id": "4bf58dd8d48988d116941735",
+            "category_name": "Bar",
+            "id": "4adcdb22f964a5205c6021e3",
+            "latitude": 60.1842473357,
+            "longitude": 24.9603639592,
+            "name": "Siltanen"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16d941735",
+            "category_name": "Café",
+            "id": "4b5a417df964a520e0b728e3",
+            "latitude": 60.1537367729,
+            "longitude": 24.9427150173,
+            "name": "Café Carusel"
+        },
+        {
+            "category_id": "4bf58dd8d48988d128941735",
+            "category_name": "Cafeteria",
+            "id": "4d84694ef1e56ea86f82748a",
+            "latitude": 60.2166789519,
+            "longitude": 24.6629592043,
+            "name": "IKEA Ravintola"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4b4d8983f964a520bfd326e3",
+            "latitude": 60.1711788875,
+            "longitude": 24.7779712419,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16a941735",
+            "category_name": "Bakery",
+            "id": "5beb2f332f97ec668e5c16d5",
+            "latitude": 60.187303,
+            "longitude": 24.956432,
+            "name": "Meli Cafe & Bakery"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16e941735",
+            "category_name": "Fast Food Restaurant",
+            "id": "4ca87ed4f47ea1433c757521",
+            "latitude": 60.1904717348,
+            "longitude": 24.9560433285,
+            "name": "McDonald's"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16d941735",
+            "category_name": "Café",
+            "id": "5393110a498e10da32ccf589",
+            "latitude": 60.1536958638,
+            "longitude": 24.9320263955,
+            "name": "Birgitta"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16d941735",
+            "category_name": "Café",
+            "id": "5863b61d469aef7d53313c20",
+            "latitude": 60.1479744056,
+            "longitude": 24.755425068,
+            "name": "Nokkalan Majakka"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1c4941735",
+            "category_name": "Restaurant",
+            "id": "5a3aa3b91bc7040b773e856c",
+            "latitude": 60.1855158843,
+            "longitude": 24.8203870654,
+            "name": "Ravintola Fat Lizard"
+        },
+        {
+            "category_id": "58daa1558bbb0b01f18ec1ae",
+            "category_name": "Sauna / Steam Room",
+            "id": "570a618d498e89088ed23d29",
+            "latitude": 60.1519616693,
+            "longitude": 24.9304160521,
+            "name": "Löyly"
+        },
+        {
+            "category_id": "4bf58dd8d48988d120951735",
+            "category_name": "Food Court",
+            "id": "500e504890e7cf11e5d77c2a",
+            "latitude": 60.1901117577,
+            "longitude": 24.9714937236,
+            "name": "Teurastamo"
+        },
+        {
+            "category_id": "4bf58dd8d48988d120951735",
+            "category_name": "Food Court",
+            "id": "4d3ff198adb6236aab778340",
+            "latitude": 60.1913394208,
+            "longitude": 24.9740356499,
+            "name": "Tukkutori"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16d941735",
+            "category_name": "Café",
+            "id": "51b8254a498ed29158c82900",
+            "latitude": 60.1560556441,
+            "longitude": 24.921020907,
+            "name": "Little Big Cafe 2nd"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1c4941735",
+            "category_name": "Restaurant",
+            "id": "5f61dfc30bf2df5fc0111818",
+            "latitude": 60.21126,
+            "longitude": 24.817705,
+            "name": "Pihka"
+        },
+        {
+            "category_id": "4bf58dd8d48988d103951735",
+            "category_name": "Clothing Store",
+            "id": "5c1395cb336273002c5425cd",
+            "latitude": 60.1694033297,
+            "longitude": 24.9335823208,
+            "name": "MUJI"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16d941735",
+            "category_name": "Café",
+            "id": "4adcdb22f964a5203a6021e3",
+            "latitude": 60.1801447306,
+            "longitude": 24.9117732437,
+            "name": "Cafe Regatta"
+        },
+        {
+            "category_id": "4bf58dd8d48988d15b941735",
+            "category_name": "Farm",
+            "id": "4cb9c889558576b09cf0480e",
+            "latitude": 60.2555531862,
+            "longitude": 24.9705682645,
+            "name": "Tuomarinkylän kartano"
+        },
+        {
+            "category_id": "4bf58dd8d48988d120951735",
+            "category_name": "Food Court",
+            "id": "584043c8f63c544367d8161b",
+            "latitude": 60.1694723752,
+            "longitude": 24.9335523402,
+            "name": "Kampin Kortteli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d120951735",
+            "category_name": "Food Court",
+            "id": "4bf0d98e17880f4752c32937",
+            "latitude": 60.1628377858,
+            "longitude": 24.9296068962,
+            "name": "Hietalahden kauppahalli"
+        },
+        {
+            "category_id": "4bf58dd8d48988d16d941735",
+            "category_name": "Café",
+            "id": "4cda4b4fcea2224b92d07e4c",
+            "latitude": 60.189254,
+            "longitude": 24.95856,
+            "name": "Kahvila Sävy"
+        },
+        {
+            "category_id": "4bf58dd8d48988d1c4941735",
+            "category_name": "Restaurant",
+            "id": "4e2eab9222717d70585813c3",
+            "latitude": 60.2754401232,
+            "longitude": 24.9543310911,
+            "name": "Kahvila-Ravintola Wanha Pehtoori"
+        }
+    ]
+}
